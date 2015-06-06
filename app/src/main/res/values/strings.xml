@@ -2,7 +2,13 @@
 <resources>
 
     <string name="app_name">S\'maffle</string>
-    <string name="hello_world">Hello world!</string>
+    <string name="label_search_tag_field">What are you in the mood for?</string>
+    <string name="placeholder_search_tag_field">ie: ramen</string>
+    <string name="btnlabel_find_anything">Anything ediable!</string>
+    <string name="btnlabel_find_tag">Find it!</string>
     <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 </resources>

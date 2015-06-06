@@ -73,7 +73,7 @@ public class SharedPreferenceManager {
 
                         @Override
                         public void onResponse(JSONObject response) {
-                            Log.d("Response", response.toString());
+                            Log.i("Response", response.toString());
                             try {
                                 String token = response.getString("auth_token");
                                 saveCredentials(aii, token);

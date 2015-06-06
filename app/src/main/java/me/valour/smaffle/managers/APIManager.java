@@ -17,7 +17,7 @@ import org.json.JSONObject;
  */
 public class APIManager {
 
-    public static final String host = "http://10.10.10.105:1999";
+    public static final String host = "http://localhost:9900";
 
     private RequestQueue queue;
     private static Context ctx;
